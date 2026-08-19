@@ -52,7 +52,4 @@ Data sources:
 football-data.co.uk — free historical CSVs
 Kaggle UCL datasets
 FBref (xG, advanced stats — manual/rate-limited extraction only)
-ClubElo — free Elo ratings
-
-Raw data is not committed to this repo (see .gitignore). Download instructions and source links will be added here as datasets are finalized..
-it will be posted soon
+ClubElo — free Elo ratings.
