@@ -1,10 +1,10 @@
 # UCL Predictor
 
-A machine learning model to predict UEFA Champions League match outcomes, built on 15–20 years of historical match data.
+A machine learning model to predict UEFA Champions League match outcomes, built on 30 years of historical match data.
 
 #Overview
 
-This project collects, cleans, and models Champions League match data spanning 15–20 seasons (~2004/05 – 2024/25) to predict match results (Home Win / Draw / Away Win) and, eventually, knockout-stage progression probabilities.
+This project collects, cleans, and models Champions League match data spanning 30 seasons (~1996/97 – 2024/25) to predict match results (Home Win / Draw / Away Win) and, eventually, knockout-stage progression probabilities.
 
 #Project Structure
 ucl-predictor/
@@ -24,7 +24,7 @@ ucl-predictor/
 
 Data
 
-Timeframe: 15–20 years of UEFA Champions League matches (target range: 2004/05 season onward), covering league phase / group stage, knockout rounds, and finals.
+Timeframe: 30 years of UEFA Champions League matches (target range: 1996/97 season onward), covering league phase / group stage, knockout rounds, and finals.
 
 Core fields collected per match:
 
